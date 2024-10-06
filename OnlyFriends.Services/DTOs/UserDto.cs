@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace OnlyFriends.Services.DTOs
 {
-    internal class UserDto
+    public class UserDto
     {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string Email { get; set; }
     }
 }

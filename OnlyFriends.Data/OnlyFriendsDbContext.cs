@@ -1,16 +1,10 @@
-﻿using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Options;
-using OnlyFriends.Domain.Entities;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using OnlyFriends.Domain.Entities;
 
 namespace OnlyFriends.Data
 {
-    public class OnlyFriendsDbContext : DbContext
+    public class OnlyFriendsDbContext : IdentityDbContext<User>
     {
         public OnlyFriendsDbContext(DbContextOptions<OnlyFriendsDbContext> options) : base(options)
         {

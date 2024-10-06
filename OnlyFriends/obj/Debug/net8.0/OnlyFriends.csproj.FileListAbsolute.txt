@@ -144,3 +144,15 @@ C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends\obj\Debug\net8.0
 C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends\obj\Debug\net8.0\OnlyFriends.pdb
 C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends\obj\Debug\net8.0\OnlyFriends.genruntimeconfig.cache
 C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends\obj\Debug\net8.0\ref\OnlyFriends.dll
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends\bin\Debug\net8.0\IdentityModel.dll
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends\bin\Debug\net8.0\IdentityServer4.dll
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends\bin\Debug\net8.0\IdentityServer4.AspNetIdentity.dll
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends\bin\Debug\net8.0\IdentityServer4.Storage.dll
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends\bin\Debug\net8.0\Newtonsoft.Json.dll

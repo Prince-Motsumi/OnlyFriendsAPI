@@ -9,3 +9,4 @@ C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends.Domain\obj\Debug
 C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends.Domain\obj\Debug\net8.0\refint\OnlyFriends.Domain.dll
 C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends.Domain\obj\Debug\net8.0\OnlyFriends.Domain.pdb
 C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends.Domain\obj\Debug\net8.0\ref\OnlyFriends.Domain.dll
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends.Domain\obj\Debug\net8.0\OnlyFriends.Domain.csproj.AssemblyReference.cache
