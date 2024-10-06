@@ -1,0 +1,11 @@
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends.Domain\bin\Debug\net8.0\OnlyFriends.Domain.deps.json
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends.Domain\bin\Debug\net8.0\OnlyFriends.Domain.dll
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends.Domain\bin\Debug\net8.0\OnlyFriends.Domain.pdb
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends.Domain\obj\Debug\net8.0\OnlyFriends.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends.Domain\obj\Debug\net8.0\OnlyFriends.Domain.AssemblyInfoInputs.cache
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends.Domain\obj\Debug\net8.0\OnlyFriends.Domain.AssemblyInfo.cs
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends.Domain\obj\Debug\net8.0\OnlyFriends.Domain.csproj.CoreCompileInputs.cache
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends.Domain\obj\Debug\net8.0\OnlyFriends.Domain.dll
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends.Domain\obj\Debug\net8.0\refint\OnlyFriends.Domain.dll
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends.Domain\obj\Debug\net8.0\OnlyFriends.Domain.pdb
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends.Domain\obj\Debug\net8.0\ref\OnlyFriends.Domain.dll

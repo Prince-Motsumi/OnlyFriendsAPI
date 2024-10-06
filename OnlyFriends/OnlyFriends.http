@@ -1,0 +1,6 @@
+@OnlyFriends_HostAddress = http://localhost:5045
+
+GET {{OnlyFriends_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

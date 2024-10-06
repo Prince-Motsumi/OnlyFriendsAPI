@@ -1,0 +1,15 @@
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends.Services\bin\Debug\net8.0\OnlyFriends.Services.deps.json
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends.Services\bin\Debug\net8.0\OnlyFriends.Services.dll
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends.Services\bin\Debug\net8.0\OnlyFriends.Services.pdb
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends.Services\bin\Debug\net8.0\OnlyFriends.Domain.dll
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends.Services\bin\Debug\net8.0\OnlyFriends.Domain.pdb
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends.Services\obj\Debug\net8.0\OnlyFriends.Services.csproj.AssemblyReference.cache
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends.Services\obj\Debug\net8.0\OnlyFriends.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends.Services\obj\Debug\net8.0\OnlyFriends.Services.AssemblyInfoInputs.cache
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends.Services\obj\Debug\net8.0\OnlyFriends.Services.AssemblyInfo.cs
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends.Services\obj\Debug\net8.0\OnlyFriends.Services.csproj.CoreCompileInputs.cache
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends.Services\obj\Debug\net8.0\OnlyFriends.Services.csproj.CopyComplete
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends.Services\obj\Debug\net8.0\OnlyFriends.Services.dll
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends.Services\obj\Debug\net8.0\refint\OnlyFriends.Services.dll
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends.Services\obj\Debug\net8.0\OnlyFriends.Services.pdb
+C:\Users\princ\OneDrive\Documents\Repos\OnlyFriends\OnlyFriends.Services\obj\Debug\net8.0\ref\OnlyFriends.Services.dll
