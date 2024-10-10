@@ -18,7 +18,7 @@ namespace OnlyFriends.Data.Repositories
             return await _context.Comments.Where(c => c.PostId == postId).ToListAsync();
         }
 
-        public async Task<IEnumerable<Comment>> GetCommentsByUserIdAsync(int userId)
+        public async Task<IEnumerable<Comment>> GetCommentsByUserIdAsync(string userId)
         {
             return await _context.Comments.Where(c => c.UserId == userId).ToListAsync();
         }

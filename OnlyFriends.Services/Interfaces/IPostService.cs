@@ -11,7 +11,7 @@ namespace OnlyFriends.Services.Interfaces
     {
         Task<IEnumerable<Post>> GetAllPostsAsync();
         Task<Post> GetPostByIdAsync(int id);
-        Task<IEnumerable<Post>> GetPostsByUserIdAsync(int userId);
+        Task<IEnumerable<Post>> GetPostsByUserIdAsync(string userId);
         Task CreatePostAsync(Post post);
         Task UpdatePostAsync(Post post);
         Task DeletePostAsync(int id);

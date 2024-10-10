@@ -9,7 +9,7 @@ namespace OnlyFriends.Domain.Interfaces
 {
     public interface IPostRepository : IRepository<Post>
     {
-        Task<IEnumerable<Post>> GetPostsByUserIdAsync(int userId);
+        Task<IEnumerable<Post>> GetPostsByUserIdAsync(string userId);
         Task<IEnumerable<Post>> GetRecentPostsAsync(int numberOfPosts);
     }
 }

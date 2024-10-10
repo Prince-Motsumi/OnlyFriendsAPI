@@ -28,7 +28,7 @@ namespace OnlyFriends.Services.Implementations
             return await _unitOfWork.Posts.GetByIdAsync(id);
         }
 
-        public async Task<IEnumerable<Post>> GetPostsByUserIdAsync(int userId)
+        public async Task<IEnumerable<Post>> GetPostsByUserIdAsync(string userId)
         {
             return await _unitOfWork.Posts.GetPostsByUserIdAsync(userId);
         }

@@ -14,7 +14,7 @@ namespace OnlyFriends.Domain.Entities
         public DateTime DatePosted { get; set; }
 
         // Foreign Keys and Relationships
-        public int UserId { get; set; } // Foreign Key to User
+        public string UserId { get; set; } // Foreign Key to User
         public User User { get; set; } // Navigation Property: A post is made by a user
         public ICollection<Comment> Comments { get; set; } // A post can have multiple comments
     }

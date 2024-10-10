@@ -15,7 +15,7 @@ namespace OnlyFriends.Domain.Entities
         // Foreign Keys and Relationships
         public int PostId { get; set; } // Foreign Key to Post
         public Post Post { get; set; } // Navigation Property: A comment belongs to a post
-        public int UserId { get; set; } // Foreign Key to User
+        public string UserId { get; set; } // Foreign Key to User
         public User User { get; set; } // Navigation Property: A comment is made by a user
     }
 }

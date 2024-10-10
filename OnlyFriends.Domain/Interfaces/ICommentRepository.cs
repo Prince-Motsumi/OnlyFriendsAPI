@@ -10,6 +10,6 @@ namespace OnlyFriends.Domain.Interfaces
     public interface ICommentRepository : IRepository<Comment>
     {
         Task<IEnumerable<Comment>> GetCommentsByPostIdAsync(int postId);
-        Task<IEnumerable<Comment>> GetCommentsByUserIdAsync(int userId);
+        Task<IEnumerable<Comment>> GetCommentsByUserIdAsync(string userId);
     }
 }

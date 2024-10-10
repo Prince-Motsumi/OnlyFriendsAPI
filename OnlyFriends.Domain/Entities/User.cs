@@ -4,10 +4,6 @@ namespace OnlyFriends.Domain.Entities
 {
     public class User : IdentityUser
     {
-        public int Id { get; set; } // Primary Key
-        public string Username { get; set; }
-        public string Email { get; set; }
-        public string PasswordHash { get; set; }
         public string Bio { get; set; }
         public string ProfileImageUrl { get; set; }
         public DateTime DateCreated { get; set; }

@@ -1086,6 +1086,7 @@
       },
       "OnlyFriends.Services/1.0.0": {
         "dependencies": {
+          "Newtonsoft.Json": "12.0.2",
           "OnlyFriends.Domain": "1.0.0"
         },
         "runtime": {

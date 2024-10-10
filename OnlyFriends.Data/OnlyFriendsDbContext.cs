@@ -24,9 +24,9 @@ namespace OnlyFriends.Data
                 .HasForeignKey(p => p.UserId);
 
             modelBuilder.Entity<Post>()
-                .HasMany(p => p.Comments)
-                .WithOne(c => c.Post)
-                .HasForeignKey(c => c.PostId);
+                .HasOne(p => p.User)
+                .WithMany(c => c.Posts)
+                .HasForeignKey(c => c.UserId);
         }
     }
 }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "e8KrVJAVrSrKPn+ilKjK0CGpfhv6zms1GL+Jr9xJ6PoOcTbOos0xE4WqtySgQlvS5kej+yy6keQ1eg2hPDxBzQ==",
+  "dgSpecHash": "zMGELlMrgffYOaJmEJYDlCFWJUrigVzNjE/lJD3a/7vd6wpuKjA4nk8DpsuRDwFC9dGAmn6UwYC/nD7BBEZQ2g==",
   "success": true,
   "projectFilePath": "C:\\Users\\princ\\OneDrive\\Documents\\Repos\\OnlyFriends\\OnlyFriends.Services\\OnlyFriends.Services.csproj",
   "expectedPackageFiles": [
@@ -21,7 +21,8 @@
     "C:\\Users\\princ\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
     "C:\\Users\\princ\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\princ\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
-    "C:\\Users\\princ\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+    "C:\\Users\\princ\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\princ\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
   ],
   "logs": []
 }

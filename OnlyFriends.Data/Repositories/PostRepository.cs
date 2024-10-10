@@ -13,9 +13,9 @@ namespace OnlyFriends.Data.Repositories
     {
         public PostRepository(OnlyFriendsDbContext context) : base(context) { }
 
-        public async Task<IEnumerable<Post>> GetPostsByUserIdAsync(int userId)
+        public async Task<IEnumerable<Post>> GetPostsByUserIdAsync(string userId)
         {
-            return await _context.Posts.Where(p => p.UserId == userId).ToListAsync();
+            return await _context.Posts.Where(p => p.UserId.Equals(userId, StringComparison.InvariantCultureIgnoreCase)).ToListAsync();
         }
 
         public async Task<IEnumerable<Post>> GetRecentPostsAsync(int numberOfPosts)

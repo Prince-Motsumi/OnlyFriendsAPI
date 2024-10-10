@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using OnlyFriends.Data;
 
@@ -11,9 +12,11 @@ using OnlyFriends.Data;
 namespace OnlyFriends.Data.Migrations
 {
     [DbContext(typeof(OnlyFriendsDbContext))]
-    partial class OnlyFriendsDbContextModelSnapshot : ModelSnapshot
+    [Migration("20241010173218_initFix")]
+    partial class initFix
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

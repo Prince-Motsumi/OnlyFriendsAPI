@@ -46,7 +46,7 @@ namespace OnlyFriends.Controllers
 
         // PUT: api/User/5
         [HttpPut("{id}")]
-        public async Task<ActionResult> UpdateUser(int id, [FromBody] User user)
+        public async Task<ActionResult> UpdateUser(string id, [FromBody] User user)
         {
             if (id != user.Id)
             {
