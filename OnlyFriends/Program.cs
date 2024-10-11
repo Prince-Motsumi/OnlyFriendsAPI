@@ -8,6 +8,7 @@ using OnlyFriends.Services.Interfaces;
 using Microsoft.AspNetCore.Identity;
 using IdentityServer4.Services;
 using OnlyFriends;
+using OnlyFriends.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -49,6 +50,8 @@ builder.Services.AddScoped<IPostService, PostService>();
 builder.Services.AddScoped<ICommentService, CommentService>();
 
 var app = builder.Build();
+
+app.UseMiddleware<ErrorHandling>();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
